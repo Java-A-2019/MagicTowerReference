@@ -1,0 +1,15 @@
+bbbbbbbbbbbbb
+bbbbbbbbbbbbb
+bblaabibaakbb
+bbbaababaabbb
+bbbbabBbabbbb
+bbbbaaaaabbbb
+bbbbbaaabbbbb
+bbbbbbabbbbbb
+bbbbbbabbbbbb
+bbbbbbabbbbbb
+bbbbbbabbbbbb
+bbbbbbbbbbbbb
+bbbbbbbbbbbbb
+0 4 6
+940 10 10 21 0 0 0
